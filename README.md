@@ -1,6 +1,4 @@
-Yes — now that Scenario 1 has been removed, I would also remove the old A4M, B1.5M, C4M, and D1.5M presentation from the dataset-availability text. It would otherwise make the repository look as if all four datasets are still part of the final experimental design.
-The current manuscript uses only the row-disjoint IoT-23 setup with a 4,000,000-record development dataset and a separate 1,500,000-record independent test dataset, plus the ToN-IoT benchmark with 100,000 records split into 70,000 training, 15,000 validation, and 15,000 test records.     FarhatJ1_For_Sure_Final_3(1)     FarhatJ1_For_Sure_Final_3(1)
-I would revise your repository text to this:
+
 Dataset Description
 The datasets provided in this repository are derived from the publicly available IoT-23 and ToN-IoT network-security datasets used in the experimental evaluation of:
 “SDNN-LGBM: A Two-Stage Architecture for Multi-Class IoT Attack Detection under Extreme Rarity”
